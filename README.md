@@ -9,3 +9,6 @@
 - Does this phenomenon overwhelm the exogenous varibles present in the REIT asset class?
 
 
+### To-Do list
+- Application of LSTR NN
+- Inclusion of exogenous variables

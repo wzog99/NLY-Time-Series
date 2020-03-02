@@ -1,6 +1,6 @@
 # NLY-Time-Series
 ## Check out my blog on this presentation:
-**[Time Series REIT Blog Post]**(https://wordpress.com/block-editor/post/wzog99data.science.blog/85) 
+**[Time Series REIT Blog Post](https://wordpress.com/block-editor/post/wzog99data.science.blog/85)**
 
 ### Rationale for this analysis
 - SARIMA models are somewhat picky, and are often an inappropriate tool for modeling instances that have a significant amount of external factors (Exogenous features)
